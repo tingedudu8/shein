@@ -32,13 +32,13 @@ function App() {
         </Tabs>
 
         <TabContent value={value} index={0}>
-           Item One
+           Content One
           </TabContent>
           <TabContent value={value} index={1}>
-            Item Two
+           Content Two
           </TabContent>
           <TabContent value={value} index={2}>
-            Item Three
+           Content Three
           </TabContent>
     </div>
   );

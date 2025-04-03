@@ -91,29 +91,3 @@ Made changes to the deploy stage
 
 
 
-
-# Debug
-
-1. 
-![debug1 in ci/cd](public/bug_1.png)
-ProcessError: fatal: could not read Username for 'https://github.com': No such device or address
-
-How to fix:
-
-Made changes to the deploy stage
-- name: Deploy
-        env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
-          npm run deploy -- -u "github-actions-bot <support+actions@github.com>"
-
-
-
-
-
-
-
-
-
-
