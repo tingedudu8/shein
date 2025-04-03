@@ -1,0 +1,40 @@
+{
+    "data": [
+      {
+        "name": "Burger",
+        "price": "$8",
+        "description": "Juicy grilled burger with lettuce, tomato, and cheese",
+        "url": "https://images.unsplash.com/photo-1550547660-d9450f859349?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+      },
+      {
+        "name": "Salad",
+        "price": "$7",
+        "description": "Fresh garden salad with vinaigrette dressing",
+        "url": "https://www.eatingwell.com/thmb/S2NGMEcgm11dtdBJ6Hwprwq-nVk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/eat-the-rainbow-chopped-salad-with-basil-mozzarella-beauty-185-278133-4000x2700-56879ac756cd46ea97944768847b7ea5.jpg"
+      },
+      {
+        "name": "Sandwich",
+        "price": "$6",
+        "description": "Turkey sandwich with avocado and sprouts",
+        "url": "https://www.watermelon.org/wp-content/uploads/2023/02/Sandwich_2023.jpg"
+      },
+      {
+        "name": "Pasta",
+        "price": "$9",
+        "description": "Creamy pasta with garlic and herbs",
+        "url": "https://static01.nyt.com/images/2025/01/17/multimedia/CR-Lemony-Hummus-Pasta-wtkj/CR-Lemony-Hummus-Pasta-wtkj-jumbo.jpg"
+      },
+      {
+        "name": "Soup",
+        "price": "$5",
+        "description": "Hearty tomato soup served with basil",
+        "url": "https://assets.epicurious.com/photos/66f1e474b0d850f8f8cd3fb6/4:3/w_4152,h_3114,c_limit/vegetable-soup_RECIPE_V1_092024_10321_VOG_final.jpg"
+      },
+      {
+        "name": "Steak",
+        "price": "$15",
+        "description": "Grilled ribeye steak cooked to perfection",
+        "url": "https://hips.hearstapps.com/hmg-prod/images/how-to-cook-steak-in-the-oven-index-66a3eda7b9f52.jpg?crop=0.6669164481079056xw:1xh;center,top&resize=1200:*"
+      }
+    ]
+  }

@@ -1,0 +1,40 @@
+{
+    "data": [
+      {
+        "name": "bread",
+        "price": "$3",
+        "description": "A fresh handmade bread",
+        "url": "https://thatbreadlady.com/wp-content/uploads/2020/10/french-bread.jpg"
+      },
+      {
+        "name": "croissant",
+        "price": "$4",
+        "description": "Buttery and flaky French croissant",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1WSvxGW7cWoovgmg_f2EDI3gfAdPnCZ4-Ig&s"
+      },
+      {
+        "name": "pancakes",
+        "price": "$5",
+        "description": "Stack of pancakes with syrup and berries",
+        "url": "https://cdn.loveandlemons.com/wp-content/uploads/2025/01/pancake-recipe.jpg"
+      },
+      {
+        "name": "omelette",
+        "price": "$6",
+        "description": "Egg omelette with cheese and vegetables",
+        "url": "https://joyfoodsunshine.com/wp-content/uploads/2022/07/best-omelette-recipe-1.jpg"
+      },
+      {
+        "name": "coffee",
+        "price": "$2",
+        "description": "Freshly brewed coffee",
+        "url": "https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?cs=srgb&dl=pexels-chevanon-312418.jpg&fm=jpg"
+      },
+      {
+        "name": "orange juice",
+        "price": "$3",
+        "description": "Freshly squeezed orange juice",
+        "url": "https://www.knowyourproduce.com/wp-content/uploads/2014/04/fresh-squeezed-orange-juice-6.jpg"
+      }
+    ]
+  }

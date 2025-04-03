@@ -1,0 +1,65 @@
+{
+    "data": [
+      {
+        "name": "Grilled Salmon",
+        "price": "$18",
+        "description": "Perfectly grilled salmon with a light herb marinade, served with steamed vegetables and a rich lemon butter sauce.",
+        "url": "https://www.dinneratthezoo.com/wp-content/uploads/2019/05/grilled-salmon-final-2.jpg"
+      },
+      {
+        "name": "Steak Frites",
+        "price": "$22",
+        "description": "Tender, juicy steak paired with crispy golden fries and a rich, savory sauce that elevates every bite.",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Reel_and_Brand_-_September_2021_-_Sarah_Stierch_05.jpg/1200px-Reel_and_Brand_-_September_2021_-_Sarah_Stierch_05.jpg"
+      },
+      {
+        "name": "Roast Chicken",
+        "price": "$16",
+        "description": "Slow-roasted chicken seasoned with herbs and spices, served with roasted potatoes and seasonal greens.",
+        "url": "https://hips.hearstapps.com/hmg-prod/images/roast-chicken-recipe-2-66b231ac9a8fb.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*"
+      },
+      {
+        "name": "Spaghetti Carbonara",
+        "price": "$14",
+        "description": "A classic Italian pasta dish made with a creamy egg sauce, crispy pancetta, and freshly grated Parmesan cheese.",
+        "url": "https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-threeByTwoMediumAt2X-v2.jpg"
+      },
+      {
+        "name": "Lobster Bisque",
+        "price": "$20",
+        "description": "A velvety and rich lobster bisque, perfectly balanced with a hint of sherry, fresh herbs, and a touch of cream.",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbc3GjKIuzGvQIEAUQ1YieL64EnXhGn0ZsQ&s"
+      },
+      {
+        "name": "Vegetarian Stir Fry",
+        "price": "$12",
+        "description": "A colorful medley of fresh vegetables stir-fried in a tangy soy-ginger sauce, served over steamed jasmine rice.",
+        "url": "https://kristineskitchenblog.com/wp-content/uploads/2024/01/vegetable-stir-fry-22-3-500x500.jpg"
+      },
+      {
+        "name": "Beef Wellington",
+        "price": "$28",
+        "description": "Luxurious beef fillet wrapped in flaky puff pastry, cooked to perfection and served with a decadent red wine reduction.",
+        "url": "https://grillmomma.com/wp-content/uploads/2020/12/IMG_1986_jpg-3-scaled-e1609300974309.jpg"
+      },
+      {
+        "name": "Shrimp Scampi",
+        "price": "$19",
+        "description": "Succulent shrimp sautéed in garlic butter and white wine, tossed with al dente pasta and finished with fresh parsley.",
+        "url": "https://cdn.jwplayer.com/v2/media/hPcMnXp7/thumbnails/mCITeuJc.jpg"
+      },
+      {
+        "name": "Mushroom Risotto",
+        "price": "$15",
+        "description": "Creamy Arborio rice cooked with a variety of wild mushrooms, finished with Parmesan cheese and a drizzle of truffle oil.",
+        "url": "https://cdn.loveandlemons.com/wp-content/uploads/opengraph/2023/01/mushroom-risotto-recipe.jpg"
+      },
+      {
+        "name": "Eggplant Parmesan",
+        "price": "$13",
+        "description": "Layers of breaded eggplant baked with marinara sauce, melted mozzarella, and Parmesan cheese, served with a side of fresh basil.",
+        "url": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+      }
+    ]
+  }
+  
