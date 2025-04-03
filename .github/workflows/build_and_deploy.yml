@@ -13,11 +13,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Configure Git
-        run: |
-          git config --global user.name "tingdudu8"
-          git config --global user.email "emberdudu8@gmail.com"
-
       - name: Install
         run: |
           npm install
@@ -27,10 +22,8 @@ jobs:
           npm run build
 
       - name: Deploy
-        env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          npx gh-pages -d build --repo=https://${GITHUB_TOKEN}@github.com/tingedudu8/shein.git
+          npm run deploy
         
 
 
