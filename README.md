@@ -55,7 +55,10 @@ I tried following solutions
 
 - 2.2 Manual Workflow Dispatch 
 
-    - 1. 
+    - 1. Modify workflow yaml, update the trigger section to include workflow_dispatch, so it can be triggered manually
+
+
+
 
 
 
