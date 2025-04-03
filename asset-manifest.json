@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/shein/static/css/main.f855e6bc.css",
-    "main.js": "/shein/static/js/main.026065df.js",
+    "main.js": "/shein/static/js/main.cf09d874.js",
     "static/js/453.bb7a59cc.chunk.js": "/shein/static/js/453.bb7a59cc.chunk.js",
     "index.html": "/shein/index.html",
     "main.f855e6bc.css.map": "/shein/static/css/main.f855e6bc.css.map",
-    "main.026065df.js.map": "/shein/static/js/main.026065df.js.map",
+    "main.cf09d874.js.map": "/shein/static/js/main.cf09d874.js.map",
     "453.bb7a59cc.chunk.js.map": "/shein/static/js/453.bb7a59cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.026065df.js"
+    "static/js/main.cf09d874.js"
   ]
 }
