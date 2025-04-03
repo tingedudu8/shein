@@ -37,4 +37,28 @@ according to the `https://mui.com/material-ui/react-tabs/` used the following co
 `<Tabs />` - the container that houses the tabs. Responsible for handling focus and keyboard navigation between tabs.
 
 
+## CI/CD
+1. create workflow using github actions
+
+create a `.github/workflows/build_and_deploy.yml` file
+
+2. How to debug github actions easily?
+
+I tried following solutions
+
+- 2.1 We tried to use a tool called [act](https://github.com/nektos/act) to run and debug your GitHub Actions workflows locally
+
+    - 1. Install act
+    - 2. Run act
+    - 3. Prepare docker
+    - 4. debug
+
+- 2.2 Manual Workflow Dispatch 
+
+    - 1. 
+
+
+
+
+
 
