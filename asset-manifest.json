@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/shein-website/static/css/main.f855e6bc.css",
-    "main.js": "/shein-website/static/js/main.5b0a7301.js",
-    "static/js/453.bb7a59cc.chunk.js": "/shein-website/static/js/453.bb7a59cc.chunk.js",
-    "index.html": "/shein-website/index.html",
-    "main.f855e6bc.css.map": "/shein-website/static/css/main.f855e6bc.css.map",
-    "main.5b0a7301.js.map": "/shein-website/static/js/main.5b0a7301.js.map",
-    "453.bb7a59cc.chunk.js.map": "/shein-website/static/js/453.bb7a59cc.chunk.js.map"
+    "main.css": "/shein/static/css/main.f855e6bc.css",
+    "main.js": "/shein/static/js/main.026065df.js",
+    "static/js/453.bb7a59cc.chunk.js": "/shein/static/js/453.bb7a59cc.chunk.js",
+    "index.html": "/shein/index.html",
+    "main.f855e6bc.css.map": "/shein/static/css/main.f855e6bc.css.map",
+    "main.026065df.js.map": "/shein/static/js/main.026065df.js.map",
+    "453.bb7a59cc.chunk.js.map": "/shein/static/js/453.bb7a59cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.5b0a7301.js"
+    "static/js/main.026065df.js"
   ]
 }
